@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TrivagoHotelSearch]">
+  <listeners>
+    <listener class-name="com.trivago.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="TrivagoHotelSearchapp Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.trivago.testcases.TC_SelectfromHotelList_002">
+        <methods>
+          <include name="sortHotels"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.trivago.testcases.TC_SelectfromHotelList_002 -->
+    </classes>
+  </test> <!-- TrivagoHotelSearchapp Test(failed) -->
+</suite> <!-- Failed suite [TrivagoHotelSearch] -->

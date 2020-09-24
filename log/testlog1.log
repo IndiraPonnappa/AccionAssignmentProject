@@ -1,0 +1,201 @@
+2020-09-22 15:23:49,780 [main] INFO inetbanking - Navigated to the url
+2020-09-22 15:23:52,074 [main] INFO inetbanking - Entered the city
+2020-09-22 15:23:53,835 [main] INFO inetbanking - Clicked on search button
+2020-09-22 15:27:03,578 [main] INFO inetbanking - Navigated to the url
+2020-09-22 15:27:05,032 [main] INFO inetbanking - Entered the city
+2020-09-22 15:27:06,107 [main] INFO inetbanking - Clicked on search button
+2020-09-22 15:28:28,104 [main] INFO inetbanking - Navigated to the url
+2020-09-22 15:28:29,611 [main] INFO inetbanking - Entered the city
+2020-09-22 15:28:31,113 [main] INFO inetbanking - Clicked on search button
+2020-09-22 15:28:32,464 [main] INFO inetbanking - Login successfull
+2020-09-23 11:57:02,861 [main] INFO inetbanking - Navigated to the url
+2020-09-23 11:57:04,415 [main] INFO inetbanking - Entered the city
+2020-09-23 11:58:57,390 [main] INFO inetbanking - Navigated to the url
+2020-09-23 11:58:58,343 [main] INFO inetbanking - Entered the city
+2020-09-23 12:04:11,718 [main] INFO inetbanking - Navigated to the url
+2020-09-23 12:04:14,094 [main] INFO inetbanking - Entered the city
+2020-09-23 12:07:10,218 [main] INFO inetbanking - Navigated to the url
+2020-09-23 12:07:11,174 [main] INFO inetbanking - Entered the city
+2020-09-23 12:10:19,074 [main] INFO inetbanking - Navigated to the url
+2020-09-23 12:10:20,667 [main] INFO inetbanking - Entered the city
+2020-09-23 13:23:55,898 [main] INFO inetbanking - Navigated to the url
+2020-09-23 13:23:57,827 [main] INFO inetbanking - Entered the city
+2020-09-23 13:30:57,523 [main] INFO inetbanking - Navigated to the url
+2020-09-23 13:30:58,820 [main] INFO inetbanking - Entered the city
+2020-09-23 14:27:56,398 [main] INFO inetbanking - Navigated to the url
+2020-09-23 14:27:57,449 [main] INFO inetbanking - Entered the city
+2020-09-23 14:32:38,830 [main] INFO inetbanking - Navigated to the url
+2020-09-23 14:32:40,581 [main] INFO inetbanking - Entered the city
+2020-09-23 14:39:40,722 [main] INFO inetbanking - Navigated to the url
+2020-09-23 14:39:41,749 [main] INFO inetbanking - Entered the city
+2020-09-23 14:43:27,322 [main] INFO inetbanking - Navigated to the url
+2020-09-23 14:43:29,223 [main] INFO inetbanking - Entered the city
+2020-09-23 14:51:32,653 [main] INFO inetbanking - Navigated to the url
+2020-09-23 14:51:35,285 [main] INFO inetbanking - Entered the city
+2020-09-23 14:53:06,432 [main] INFO inetbanking - Navigated to the url
+2020-09-23 14:53:07,599 [main] INFO inetbanking - Entered the city
+2020-09-23 14:53:13,612 [main] INFO inetbanking - Clicked on search button
+2020-09-23 14:53:14,081 [main] INFO inetbanking - Login successfull
+2020-09-23 15:09:36,760 [main] INFO inetbanking - Navigated to the url
+2020-09-23 15:09:38,244 [main] INFO inetbanking - Entered the city
+2020-09-23 15:09:44,881 [main] INFO inetbanking - Clicked on search button
+2020-09-23 15:09:45,267 [main] INFO inetbanking - Login successfull
+2020-09-23 15:33:36,913 [main] INFO inetbanking - Navigated to the url
+2020-09-23 15:33:39,266 [main] INFO inetbanking - Entered the city
+2020-09-23 15:33:44,844 [main] INFO inetbanking - Selected checkin date
+2020-09-23 15:39:54,312 [main] INFO inetbanking - Navigated to the url
+2020-09-23 15:39:55,678 [main] INFO inetbanking - Entered the city
+2020-09-23 15:40:00,202 [main] INFO inetbanking - Selected checkin date
+2020-09-23 15:42:04,203 [main] INFO inetbanking - Navigated to the url
+2020-09-23 15:42:04,520 [main] INFO inetbanking - Entered the city
+2020-09-23 15:42:10,186 [main] INFO inetbanking - Selected checkin date
+2020-09-23 15:46:50,099 [main] INFO inetbanking - Navigated to the url
+2020-09-23 15:46:50,389 [main] INFO inetbanking - Entered the city
+2020-09-23 15:46:54,533 [main] INFO inetbanking - Selected checkin date
+2020-09-23 15:48:52,422 [main] INFO inetbanking - Navigated to the url
+2020-09-23 15:48:52,694 [main] INFO inetbanking - Entered the city
+2020-09-23 15:50:24,171 [main] INFO inetbanking - Navigated to the url
+2020-09-23 15:50:25,256 [main] INFO inetbanking - Entered the city
+2020-09-23 15:50:28,967 [main] INFO inetbanking - Selected checkin date
+2020-09-23 15:50:31,150 [main] INFO inetbanking - Selected checkout date
+2020-09-23 15:50:33,387 [main] INFO inetbanking - Inside guestselector
+2020-09-23 15:50:34,436 [main] INFO inetbanking - Clicked on search button
+2020-09-23 15:53:55,934 [main] INFO inetbanking - Navigated to the url
+2020-09-23 15:53:56,605 [main] INFO inetbanking - Entered the city
+2020-09-23 15:54:02,053 [main] INFO inetbanking - Selected checkin date
+2020-09-23 15:58:32,296 [main] INFO inetbanking - Navigated to the url
+2020-09-23 15:58:32,521 [main] INFO inetbanking - Entered the city
+2020-09-23 15:59:25,991 [main] INFO inetbanking - Selected checkin date
+2020-09-23 16:04:42,427 [main] INFO inetbanking - Navigated to the url
+2020-09-23 16:04:42,871 [main] INFO inetbanking - Entered the city
+2020-09-23 16:04:46,497 [main] INFO inetbanking - Selected checkin date
+2020-09-23 16:11:28,850 [main] INFO inetbanking - Navigated to the url
+2020-09-23 16:11:29,814 [main] INFO inetbanking - Entered the city
+2020-09-23 16:11:33,742 [main] INFO inetbanking - Selected checkin date
+2020-09-23 16:17:23,907 [main] INFO inetbanking - Navigated to the url
+2020-09-23 16:17:25,233 [main] INFO inetbanking - Entered the city
+2020-09-23 16:17:29,939 [main] INFO inetbanking - Selected checkin date
+2020-09-23 16:19:47,692 [main] INFO inetbanking - Navigated to the url
+2020-09-23 16:19:48,101 [main] INFO inetbanking - Entered the city
+2020-09-23 16:20:22,636 [main] INFO inetbanking - Navigated to the url
+2020-09-23 16:20:22,867 [main] INFO inetbanking - Entered the city
+2020-09-23 16:43:11,107 [main] INFO inetbanking - Navigated to the url
+2020-09-23 16:43:12,506 [main] INFO inetbanking - Entered the city
+2020-09-23 16:43:18,457 [main] INFO inetbanking - Selected checkin date
+2020-09-23 16:48:26,312 [main] INFO inetbanking - Navigated to the url
+2020-09-23 16:48:27,836 [main] INFO inetbanking - Entered the city
+2020-09-23 16:48:32,196 [main] INFO inetbanking - Selected checkin date
+2020-09-23 16:48:34,362 [main] INFO inetbanking - Selected checkout date
+2020-09-23 16:55:59,231 [main] INFO inetbanking - Navigated to the url
+2020-09-23 16:56:00,969 [main] INFO inetbanking - Entered the city
+2020-09-23 16:58:52,514 [main] INFO inetbanking - Navigated to the url
+2020-09-23 16:58:52,773 [main] INFO inetbanking - Entered the city
+2020-09-23 17:02:30,035 [main] INFO inetbanking - Navigated to the url
+2020-09-23 17:02:30,310 [main] INFO inetbanking - Entered the city
+2020-09-23 17:02:35,119 [main] INFO inetbanking - Selected checkin date
+2020-09-23 17:05:18,916 [main] INFO inetbanking - Navigated to the url
+2020-09-23 17:05:19,377 [main] INFO inetbanking - Entered the city
+2020-09-23 17:05:23,329 [main] INFO inetbanking - Selected checkin date
+2020-09-23 17:08:13,559 [main] INFO inetbanking - Navigated to the url
+2020-09-23 17:08:13,859 [main] INFO inetbanking - Entered the city
+2020-09-23 17:08:17,528 [main] INFO inetbanking - Selected checkin date
+2020-09-23 17:12:13,097 [main] INFO inetbanking - Navigated to the url
+2020-09-23 17:12:13,444 [main] INFO inetbanking - Entered the city
+2020-09-23 17:12:16,971 [main] INFO inetbanking - Selected checkin date
+2020-09-23 17:13:47,865 [main] INFO inetbanking - Navigated to the url
+2020-09-23 17:13:48,237 [main] INFO inetbanking - Entered the city
+2020-09-23 17:13:51,765 [main] INFO inetbanking - Selected checkin date
+2020-09-23 18:03:06,166 [main] INFO inetbanking - Navigated to the url
+2020-09-23 18:03:07,625 [main] INFO inetbanking - Entered the city
+2020-09-23 18:04:22,274 [main] INFO inetbanking - Navigated to the url
+2020-09-23 18:04:23,542 [main] INFO inetbanking - Entered the city
+2020-09-23 18:05:16,976 [main] INFO inetbanking - Selected checkin date
+2020-09-23 18:08:41,463 [main] INFO inetbanking - Navigated to the url
+2020-09-23 18:08:42,747 [main] INFO inetbanking - Entered the city
+2020-09-23 18:08:47,042 [main] INFO inetbanking - Selected checkin date
+2020-09-23 18:08:49,228 [main] INFO inetbanking - Selected checkout date
+2020-09-23 18:08:51,557 [main] INFO inetbanking - Inside guestselector
+2020-09-23 18:09:02,600 [main] INFO inetbanking - Clicked on search button
+2020-09-23 18:36:06,703 [main] INFO inetbanking - Navigated to the url
+2020-09-23 18:36:06,853 [main] INFO inetbanking - Login successfull
+2020-09-23 18:36:08,856 [main] INFO inetbanking - Entered the city
+2020-09-23 18:36:15,221 [main] INFO inetbanking - Selected checkin date
+2020-09-23 18:36:17,421 [main] INFO inetbanking - Selected checkout date
+2020-09-23 18:36:19,635 [main] INFO inetbanking - Inside guestselector
+2020-09-23 18:36:19,950 [main] INFO inetbanking - Clicked on search button
+2020-09-23 18:57:37,053 [main] INFO inetbanking - Navigated to the url
+2020-09-23 18:57:37,328 [main] INFO inetbanking - Login successfull
+2020-09-23 18:57:38,399 [main] INFO inetbanking - Entered the city
+2020-09-23 18:57:42,604 [main] INFO inetbanking - Selected checkin date
+2020-09-23 18:57:44,751 [main] INFO inetbanking - Selected checkout date
+2020-09-23 18:57:47,403 [main] INFO inetbanking - Inside guestselector
+2020-09-23 18:58:40,724 [main] INFO inetbanking - Clicked on search button
+2020-09-23 19:07:11,009 [main] INFO inetbanking - Navigated to the url
+2020-09-23 19:07:11,216 [main] INFO inetbanking - Login successfull
+2020-09-23 19:07:12,202 [main] INFO inetbanking - Entered the city
+2020-09-23 19:07:15,727 [main] INFO inetbanking - Selected checkin date
+2020-09-23 19:07:17,905 [main] INFO inetbanking - Selected checkout date
+2020-09-23 19:07:20,327 [main] INFO inetbanking - Inside guestselector
+2020-09-23 19:07:22,438 [main] INFO inetbanking - Clicked on search button
+2020-09-23 19:31:23,662 [main] INFO inetbanking - Entered the city
+2020-09-23 19:31:29,412 [main] INFO inetbanking - Selected checkin date
+2020-09-23 19:33:59,374 [main] INFO inetbanking - Entered the city
+2020-09-23 19:34:05,257 [main] INFO inetbanking - Selected checkin date
+2020-09-23 19:34:07,428 [main] INFO inetbanking - Selected checkout date
+2020-09-23 19:34:09,842 [main] INFO inetbanking - Inside guestselector
+2020-09-23 19:34:11,105 [main] INFO inetbanking - Clicked on search button
+2020-09-23 19:34:12,480 [main] INFO inetbanking - Hotels are sorted based on the rating
+2020-09-23 19:41:44,751 [main] INFO inetbanking - Entered the city
+2020-09-23 19:41:50,457 [main] INFO inetbanking - Selected checkin date
+2020-09-23 19:41:52,667 [main] INFO inetbanking - Selected checkout date
+2020-09-23 19:41:55,160 [main] INFO inetbanking - Inside guestselector
+2020-09-23 19:41:56,542 [main] INFO inetbanking - Clicked on search button
+2020-09-23 19:42:01,485 [main] INFO inetbanking - Hotels are sorted based on the rating
+2020-09-23 19:44:12,291 [main] INFO inetbanking - Entered the city
+2020-09-23 19:46:27,185 [main] INFO inetbanking - Entered the city
+2020-09-23 19:46:32,655 [main] INFO inetbanking - Selected checkin date
+2020-09-23 19:46:36,230 [main] INFO inetbanking - Selected checkout date
+2020-09-23 19:46:38,812 [main] INFO inetbanking - Inside guestselector
+2020-09-23 19:46:42,292 [main] INFO inetbanking - Clicked on search button
+2020-09-23 19:46:43,380 [main] INFO inetbanking - Hotels are sorted based on the rating
+2020-09-23 19:49:52,120 [main] INFO inetbanking - Entered the city
+2020-09-23 19:50:38,368 [main] INFO inetbanking - Entered the city
+2020-09-23 19:50:44,726 [main] INFO inetbanking - Selected checkin date
+2020-09-23 19:50:46,911 [main] INFO inetbanking - Selected checkout date
+2020-09-23 19:50:49,684 [main] INFO inetbanking - Inside guestselector
+2020-09-23 19:50:49,936 [main] INFO inetbanking - Clicked on search button
+2020-09-23 19:50:55,343 [main] INFO inetbanking - Hotels are sorted based on the rating
+2020-09-23 19:52:51,445 [main] INFO inetbanking - Entered the city
+2020-09-23 19:52:55,010 [main] INFO inetbanking - Selected checkin date
+2020-09-23 19:52:57,729 [main] INFO inetbanking - Selected checkout date
+2020-09-23 19:53:00,223 [main] INFO inetbanking - Inside guestselector
+2020-09-23 19:53:00,606 [main] INFO inetbanking - Clicked on search button
+2020-09-23 19:53:04,730 [main] INFO inetbanking - Hotels are sorted based on the rating
+2020-09-23 19:55:38,522 [main] INFO inetbanking - Entered the city
+2020-09-23 19:55:42,713 [main] INFO inetbanking - Selected checkin date
+2020-09-23 19:56:24,147 [main] INFO inetbanking - Entered the city
+2020-09-23 19:56:27,970 [main] INFO inetbanking - Selected checkin date
+2020-09-23 19:56:30,139 [main] INFO inetbanking - Selected checkout date
+2020-09-23 19:56:32,785 [main] INFO inetbanking - Inside guestselector
+2020-09-23 19:56:33,030 [main] INFO inetbanking - Clicked on search button
+2020-09-23 19:56:35,086 [main] INFO inetbanking - Hotels are sorted based on the rating
+2020-09-23 20:00:19,709 [main] INFO inetbanking - Entered the city
+2020-09-23 20:03:41,892 [main] INFO inetbanking - Entered the city
+2020-09-23 20:03:49,222 [main] INFO inetbanking - Selected checkin date
+2020-09-23 20:34:54,379 [main] INFO inetbanking - Entered the city
+2020-09-23 20:35:00,858 [main] INFO inetbanking - Selected checkin date
+2020-09-23 20:37:17,795 [main] INFO inetbanking - Entered the city
+2020-09-23 20:37:27,230 [main] INFO inetbanking - Selected checkin date
+2020-09-23 20:37:29,598 [main] INFO inetbanking - Selected checkout date
+2020-09-23 20:37:35,851 [main] INFO inetbanking - Inside guestselector
+2020-09-23 20:37:37,185 [main] INFO inetbanking - Clicked on search button
+2020-09-23 20:37:40,980 [main] INFO inetbanking - Hotels are sorted based on the rating
+2020-09-23 20:56:53,349 [main] INFO inetbanking - Entered the city
+2020-09-23 20:57:03,290 [main] INFO inetbanking - Selected checkin date
+2020-09-23 20:58:49,867 [main] INFO inetbanking - Entered the city
+2020-09-23 21:00:57,855 [main] INFO inetbanking - Entered the city
+2020-09-23 21:01:01,729 [main] INFO inetbanking - Selected checkin date
+2020-09-23 21:01:03,849 [main] INFO inetbanking - Selected checkout date
+2020-09-23 21:01:06,413 [main] INFO inetbanking - Inside guestselector
+2020-09-23 21:01:06,693 [main] INFO inetbanking - Clicked on search button
+2020-09-23 21:01:13,197 [main] INFO inetbanking - Hotels are sorted based on the rating
